@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="VGZerohyper.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="91"/>
+        <CursorPos X="15" Y="115"/>
+        <UsageCount Value="80"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="cogwarebootimage.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="16780"/>
+        <CursorPos X="79" Y="16807"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hyperpixel.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="18"/>
+      </Unit>
+      <Unit>
+        <Filename Value="modhyper.pas"/>
+        <UnitName Value="modhyper.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="5" Y="1523"/>
+        <UsageCount Value="27"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Downloads\bgrabitmap-master\bgrabitmap\bgrabitmap.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Downloads\bgrabitmap-master\bgrabitmap\bgrabitmaptypes.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Downloads\bgrabitmap-master\bgrabitmap\bgrafreetype.pas"/>
+        <UnitName Value="BGRAFreeType"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="2" Y="26"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="22">
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="94" Column="45" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="74" Column="25" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="76" Column="19" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="82" Column="32" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="24" Column="7" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="25" Column="11" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="82" Column="5" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="82" Column="5" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="94" Column="45" TopLine="72"/>
+      </Position>
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="50" Column="34" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="27" Column="3" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="79" Column="31" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="cogwarebootimage.pas"/>
+        <Caret Line="10" Column="2"/>
+      </Position>
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="69" Column="24" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="28" Column="31" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="51" Column="3" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="49" Column="91" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="53" Column="10" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="28" Column="14" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="54" Column="61" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="51" Column="53" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="cogwarebootimage.pas"/>
+        <Caret Line="16807" Column="79" TopLine="16780"/>
+      </Position>
+      <Position>
+        <Filename Value="VGZerohyper.lpr"/>
+        <Caret Line="49" Column="35" TopLine="44"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="..\..\..\Downloads\bgrabitmap-master\bgrabitmap\bgrafreetype.pas"/>
+        <Line Value="25"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
